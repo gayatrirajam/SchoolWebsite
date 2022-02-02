@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background:linear-gradient(brown 0%, hotpink 100%);
+}
+#schoolimg{
+    width: 1000;
+    height: 1000;
+    border: dotted;
+    border-color:bisque;
+}
+#school{
+    font-size: 300;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
